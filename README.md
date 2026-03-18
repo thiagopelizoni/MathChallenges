@@ -7,3 +7,4 @@
 * [Problem 3](https://projecteuler.net/problem=3) | [Solution](src/problem_3.py)
 * [Problem 4](https://projecteuler.net/problem=4) | [Solution](src/problem_4.py)
 * [Problem 5](https://projecteuler.net/problem=5) | [Solution](src/problem_5.py)
+* [Problem 6](https://projecteuler.net/problem=6) | [Solution](src/problem_6.py)
