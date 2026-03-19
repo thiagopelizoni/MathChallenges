@@ -17,3 +17,4 @@
 * [Problem 13](https://projecteuler.net/problem=13) | [Solution](src/problem_13.py)
 * [Problem 14](https://projecteuler.net/problem=14) | [Solution](src/problem_14.py)
 * [Problem 15](https://projecteuler.net/problem=15) | [Solution](src/problem_15.py)
+* [Problem 16](https://projecteuler.net/problem=16) | [Solution](src/problem_16.py)
