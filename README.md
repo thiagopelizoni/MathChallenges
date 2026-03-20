@@ -22,3 +22,4 @@
 * [Problem 18](https://projecteuler.net/problem=18) | [Solution](src/problem_18.py)
 * [Problem 19](https://projecteuler.net/problem=19) | [Solution](src/problem_19.py)
 * [Problem 20](https://projecteuler.net/problem=20) | [Solution](src/problem_20.py)
+* [Problem 21](https://projecteuler.net/problem=21) | [Solution](src/problem_21.py)
