@@ -32,3 +32,4 @@
 * [Problem 28](https://projecteuler.net/problem=28) | [Solution](src/problem_28.py)
 * [Problem 29](https://projecteuler.net/problem=29) | [Solution](src/problem_29.py)
 * [Problem 30](https://projecteuler.net/problem=30) | [Solution](src/problem_30.py)
+* [Problem 31](https://projecteuler.net/problem=31) | [Solution](src/problem_31.py)
