@@ -37,3 +37,4 @@
 * [Problem 33](https://projecteuler.net/problem=33) | [Solution](src/problem_33.py)
 * [Problem 34](https://projecteuler.net/problem=34) | [Solution](src/problem_34.py)
 * [Problem 35](https://projecteuler.net/problem=35) | [Solution](src/problem_35.py)
+* [Problem 36](https://projecteuler.net/problem=36) | [Solution](src/problem_36.py)
