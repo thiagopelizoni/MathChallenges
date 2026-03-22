@@ -3,7 +3,6 @@ def is_pandigital(a, b, p):
     s = f"{a}{b}{p}"
     return len(s) == 9 and "0" not in s and len(set(s)) == 9
 
-
 def solve():
     products = set()
 
@@ -20,7 +19,6 @@ def solve():
                 products.add(p)
 
     return sum(products)
-
 
 if __name__ == "__main__":
     print(solve())
