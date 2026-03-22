@@ -36,3 +36,4 @@
 * [Problem 32](https://projecteuler.net/problem=32) | [Solution](src/problem_32.py)
 * [Problem 33](https://projecteuler.net/problem=33) | [Solution](src/problem_33.py)
 * [Problem 34](https://projecteuler.net/problem=34) | [Solution](src/problem_34.py)
+* [Problem 35](https://projecteuler.net/problem=35) | [Solution](src/problem_35.py)
