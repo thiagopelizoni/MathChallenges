@@ -44,3 +44,4 @@
 * [Problem 40](https://projecteuler.net/problem=40) | [Solution](src/problem_40.py)
 * [Problem 41](https://projecteuler.net/problem=41) | [Solution](src/problem_41.py)
 * [Problem 42](https://projecteuler.net/problem=42) | [Solution](src/problem_42.py)
+* [Problem 43](https://projecteuler.net/problem=43) | [Solution](src/problem_43.py)
