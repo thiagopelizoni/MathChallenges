@@ -47,3 +47,4 @@
 * [Problem 43](https://projecteuler.net/problem=43) | [Solution](src/problem_43.py)
 * [Problem 44](https://projecteuler.net/problem=44) | [Solution](src/problem_44.py)
 * [Problem 45](https://projecteuler.net/problem=45) | [Solution](src/problem_45.py)
+* [Problem 46](https://projecteuler.net/problem=46) | [Solution](src/problem_46.py)
