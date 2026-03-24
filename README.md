@@ -49,3 +49,4 @@
 * [Problem 45](https://projecteuler.net/problem=45) | [Solution](src/problem_45.py)
 * [Problem 46](https://projecteuler.net/problem=46) | [Solution](src/problem_46.py)
 * [Problem 47](https://projecteuler.net/problem=47) | [Solution](src/problem_47.py)
+* [Problem 48](https://projecteuler.net/problem=48) | [Solution](src/problem_48.py)
