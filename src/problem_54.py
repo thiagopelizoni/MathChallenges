@@ -39,7 +39,7 @@ def rank(hand):
 
 
 def solve():
-	path = Path(__file__).resolve().parent.parent / "poker_54_raw.txt"
+	path = Path(__file__).resolve().parent / "problem_54_data.txt"
 	total = 0
 	with path.open() as f:
 		for line in f:
