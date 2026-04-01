@@ -1,7 +1,6 @@
 # Problem 61: https://projecteuler.net/problem=61
 from collections import defaultdict
 
-
 def solve():
     nums = {}
     by_head = {}
