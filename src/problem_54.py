@@ -1,6 +1,6 @@
 # Problem 54: https://projecteuler.net/problem=54
 from collections import Counter
-from pathlib import Path
+import urllib.request
 
 
 VALUES = {c: i for i, c in enumerate("--23456789TJQKA")}
@@ -39,12 +39,13 @@ def rank(hand):
 
 
 def solve():
-	path = Path(__file__).resolve().parent / "problem_54_data.txt"
+	url = "https://projecteuler.net/resources/documents/0054_poker.txt"
 	total = 0
-	with path.open() as f:
-		for line in f:
-			cards = line.split()
-			total += rank(cards[:5]) > rank(cards[5:])
+	with urllib.request.urlopen(url) as response:
+		for line in response:
+			cards = line.decode('utf-8').split()
+			if cards:
+				total += rank(cards[:5]) > rank(cards[5:])
 	return total
 
 
