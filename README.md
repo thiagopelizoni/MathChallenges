@@ -85,3 +85,4 @@
 * [Problem 81](https://projecteuler.net/problem=81) | [Solution](src/problem_81.py)
 * [Problem 82](https://projecteuler.net/problem=82) | [Solution](src/problem_82.py)
 * [Problem 83](https://projecteuler.net/problem=83) | [Solution](src/problem_83.py)
+* [Problem 84](https://projecteuler.net/problem=84) | [Solution](src/problem_84.py)
