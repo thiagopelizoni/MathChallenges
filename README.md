@@ -98,3 +98,5 @@
 * [Problem 94](https://projecteuler.net/problem=94) | [Solution](src/problem_94.py)
 * [Problem 95](https://projecteuler.net/problem=95) | [Solution](src/problem_95.py)
 * [Problem 96](https://projecteuler.net/problem=96) | [Solution](src/problem_96.py)
+* [Problem 97](https://projecteuler.net/problem=97) | [Solution](src/problem_97.py)
+* [Problem 98](https://projecteuler.net/problem=98) | [Solution](src/problem_98.py)
