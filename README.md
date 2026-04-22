@@ -94,3 +94,4 @@
 * [Problem 90](https://projecteuler.net/problem=90) | [Solution](src/problem_90.py)
 * [Problem 91](https://projecteuler.net/problem=91) | [Solution](src/problem_91.py)
 * [Problem 92](https://projecteuler.net/problem=92) | [Solution](src/problem_92.py)
+* [Problem 93](https://projecteuler.net/problem=93) | [Solution](src/problem_93.py)
