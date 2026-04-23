@@ -106,3 +106,4 @@
 * [Problem 102](https://projecteuler.net/problem=102) | [Solution](src/problem_102.py)
 * [Problem 103](https://projecteuler.net/problem=103) | [Solution](src/problem_103.py)
 * [Problem 104](https://projecteuler.net/problem=104) | [Solution](src/problem_104.py)
+* [Problem 105](https://projecteuler.net/problem=105) | [Solution](src/problem_105.py)
