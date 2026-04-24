@@ -112,3 +112,4 @@
 * [Problem 108](https://projecteuler.net/problem=108) | [Solution](src/problem_108.py)
 * [Problem 109](https://projecteuler.net/problem=109) | [Solution](src/problem_109.py)
 * [Problem 111](https://projecteuler.net/problem=111) | [Solution](src/problem_111.py)
+* [Problem 112](https://projecteuler.net/problem=112) | [Solution](src/problem_112.py)
