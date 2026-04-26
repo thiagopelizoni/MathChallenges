@@ -130,3 +130,4 @@
 * [Problem 127](https://projecteuler.net/problem=127) | [Solution](src/problem_127.py)
 * [Problem 128](https://projecteuler.net/problem=128) | [Solution](src/problem_128.py)
 * [Problem 129](https://projecteuler.net/problem=129) | [Solution](src/problem_129.py)
+* [Problem 130](https://projecteuler.net/problem=130) | [Solution](src/problem_130.py)
