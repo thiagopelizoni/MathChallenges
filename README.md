@@ -128,3 +128,4 @@
 * [Problem 125](https://projecteuler.net/problem=125) | [Solution](src/problem_125.py)
 * [Problem 126](https://projecteuler.net/problem=126) | [Solution](src/problem_126.py)
 * [Problem 127](https://projecteuler.net/problem=127) | [Solution](src/problem_127.py)
+* [Problem 128](https://projecteuler.net/problem=128) | [Solution](src/problem_128.py)
