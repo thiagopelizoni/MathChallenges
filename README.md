@@ -132,3 +132,4 @@
 * [Problem 129](https://projecteuler.net/problem=129) | [Solution](src/problem_129.py)
 * [Problem 130](https://projecteuler.net/problem=130) | [Solution](src/problem_130.py)
 * [Problem 131](https://projecteuler.net/problem=131) | [Solution](src/problem_131.py)
+* [Problem 132](https://projecteuler.net/problem=132) | [Solution](src/problem_132.py)
