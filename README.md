@@ -145,3 +145,4 @@
 * [Problem 142](https://projecteuler.net/problem=142) | [Solution](src/problem_142.py)
 * [Problem 143](https://projecteuler.net/problem=143) | [Solution](src/problem_143.py)
 * [Problem 144](https://projecteuler.net/problem=144) | [Solution](src/problem_144.py)
+* [Problem 145](https://projecteuler.net/problem=145) | [Solution](src/problem_145.py)
