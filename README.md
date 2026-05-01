@@ -158,3 +158,4 @@
 * [Problem 155](https://projecteuler.net/problem=155) | [Solution](src/problem_155.py)
 * [Problem 156](https://projecteuler.net/problem=156) | [Solution](src/problem_156.py)
 * [Problem 157](https://projecteuler.net/problem=157) | [Solution](src/problem_157.py)
+* [Problem 158](https://projecteuler.net/problem=158) | [Solution](src/problem_158.py)
