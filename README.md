@@ -166,3 +166,4 @@
 * [Problem 163](https://projecteuler.net/problem=163) | [Solution](src/problem_163.py)
 * [Problem 164](https://projecteuler.net/problem=164) | [Solution](src/problem_164.py)
 * [Problem 165](https://projecteuler.net/problem=165) | [Solution](src/problem_165.py)
+* [Problem 166](https://projecteuler.net/problem=166) | [Solution](src/problem_166.py)
