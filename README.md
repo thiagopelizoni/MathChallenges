@@ -172,3 +172,4 @@
 * [Problem 169](https://projecteuler.net/problem=169) | [Solution](src/problem_169.py)
 * [Problem 170](https://projecteuler.net/problem=170) | [Solution](src/problem_170.py)
 * [Problem 171](https://projecteuler.net/problem=171) | [Solution](src/problem_171.py)
+* [Problem 172](https://projecteuler.net/problem=172) | [Solution](src/problem_172.py)
