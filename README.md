@@ -186,3 +186,4 @@
 * [Problem 183](https://projecteuler.net/problem=183) | [Solution](src/problem_183.py)
 * [Problem 184](https://projecteuler.net/problem=184) | [Solution](src/problem_184.py)
 * [Problem 185](https://projecteuler.net/problem=185) | [Solution](src/problem_185.py)
+* [Problem 186](https://projecteuler.net/problem=186) | [Solution](src/problem_186.py)
