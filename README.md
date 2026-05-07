@@ -179,3 +179,4 @@
 * [Problem 176](https://projecteuler.net/problem=176) | [Solution](src/problem_176.py)
 * [Problem 177](https://projecteuler.net/problem=177) | [Solution](src/problem_177.py)
 * [Problem 178](https://projecteuler.net/problem=178) | [Solution](src/problem_178.py)
+* [Problem 179](https://projecteuler.net/problem=179) | [Solution](src/problem_179.py)
