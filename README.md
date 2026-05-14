@@ -210,3 +210,4 @@
 * [Problem 207](https://projecteuler.net/problem=207) | [Solution](src/problem_207.py)
 * [Problem 208](https://projecteuler.net/problem=208) | [Solution](src/problem_208.py)
 * [Problem 209](https://projecteuler.net/problem=209) | [Solution](src/problem_209.py)
+* [Problem 210](https://projecteuler.net/problem=210) | [Solution](src/problem_210.py)
