@@ -206,3 +206,4 @@
 * [Problem 203](https://projecteuler.net/problem=203) | [Solution](src/problem_203.py)
 * [Problem 204](https://projecteuler.net/problem=204) | [Solution](src/problem_204.py)
 * [Problem 205](https://projecteuler.net/problem=205) | [Solution](src/problem_205.py)
+* [Problem 206](https://projecteuler.net/problem=206) | [Solution](src/problem_206.py)
