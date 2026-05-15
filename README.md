@@ -215,3 +215,4 @@
 * [Problem 212](https://projecteuler.net/problem=212) | [Solution](src/problem_212.py)
 * [Problem 213](https://projecteuler.net/problem=213) | [Solution](src/problem_213.py)
 * [Problem 214](https://projecteuler.net/problem=214) | [Solution](src/problem_214.py)
+* [Problem 215](https://projecteuler.net/problem=215) | [Solution](src/problem_215.py)
