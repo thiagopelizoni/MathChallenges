@@ -213,3 +213,4 @@
 * [Problem 210](https://projecteuler.net/problem=210) | [Solution](src/problem_210.py)
 * [Problem 211](https://projecteuler.net/problem=211) | [Solution](src/problem_211.py)
 * [Problem 212](https://projecteuler.net/problem=212) | [Solution](src/problem_212.py)
+* [Problem 213](https://projecteuler.net/problem=213) | [Solution](src/problem_213.py)
