@@ -225,3 +225,4 @@
 * [Problem 222](https://projecteuler.net/problem=222) | [Solution](src/problem_222.py)
 * [Problem 223](https://projecteuler.net/problem=223) | [Solution](src/problem_223.py)
 * [Problem 224](https://projecteuler.net/problem=224) | [Solution](src/problem_224.py)
+* [Problem 225](https://projecteuler.net/problem=225) | [Solution](src/problem_225.py)
