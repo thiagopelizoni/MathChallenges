@@ -240,3 +240,4 @@
 * [Problem 237](https://projecteuler.net/problem=237) | [Solution](src/problem_237.py)
 * [Problem 238](https://projecteuler.net/problem=238) | [Solution](src/problem_238.py)
 * [Problem 239](https://projecteuler.net/problem=239) | [Solution](src/problem_239.py)
+* [Problem 240](https://projecteuler.net/problem=240) | [Solution](src/problem_240.py)
