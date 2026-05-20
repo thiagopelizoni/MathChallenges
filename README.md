@@ -243,3 +243,4 @@
 * [Problem 240](https://projecteuler.net/problem=240) | [Solution](src/problem_240.py)
 * [Problem 241](https://projecteuler.net/problem=241) | [Solution](src/problem_241.py)
 * [Problem 242](https://projecteuler.net/problem=242) | [Solution](src/problem_242.py)
+* [Problem 243](https://projecteuler.net/problem=243) | [Solution](src/problem_243.py)
