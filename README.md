@@ -254,3 +254,4 @@
 * [Problem 251](https://projecteuler.net/problem=251) | [Solution](src/problem_251.py)
 * [Problem 252](https://projecteuler.net/problem=252) | [Solution](src/problem_252.py)
 * [Problem 253](https://projecteuler.net/problem=253) | [Solution](src/problem_253.py)
+* [Problem 254](https://projecteuler.net/problem=254) | [Solution](src/problem_254.py)
