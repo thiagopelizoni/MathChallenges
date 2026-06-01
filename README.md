@@ -279,3 +279,4 @@
 * [Problem 276](https://projecteuler.net/problem=276) | [Solution](src/problem_276.py)
 * [Problem 277](https://projecteuler.net/problem=277) | [Solution](src/problem_277.py)
 * [Problem 278](https://projecteuler.net/problem=278) | [Solution](src/problem_278.py)
+* [Problem 279](https://projecteuler.net/problem=279) | [Solution](src/problem_279.py)
