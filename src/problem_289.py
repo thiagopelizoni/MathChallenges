@@ -22,43 +22,60 @@ PARTITIONS = (
 )
 
 
-def normalize(s):
-    seen = [0] * 16
-    nxt = 0
-    out = 0
-    i = 0
-
-    while s >> (4 * i):
-        x = (s >> (4 * i)) & 15
-        if not seen[x]:
-            seen[x] = nxt + 1
-            nxt += 1
-        out |= (seen[x] - 1) << (4 * i)
-        i += 1
-
-    return out
+def trim(state):
+    state = list(state)
+    while state and state[-1] == 0:
+        state.pop()
+    return tuple(state)
 
 
-def relabel(s, a, b, width):
+def label(state, i):
+    return state[i] if i < len(state) else 0
+
+
+def with_label(state, i, value):
+    state = list(state)
+    while len(state) <= i:
+        state.append(0)
+    state[i] = value
+    return trim(state)
+
+
+def normalize(state):
+    seen = {}
+    out = []
+    last = -1
+    for i, x in enumerate(state):
+        if x:
+            last = i
+
+    for x in state[: last + 1]:
+        if x not in seen:
+            seen[x] = len(seen)
+        out.append(seen[x])
+
+    return trim(out)
+
+
+def relabel(state, a, b, width):
+    state = list(state)
     for i in range(width + 4):
-        if (s >> (4 * i)) & 15 == a:
-            s ^= (a ^ b) << (4 * i)
-    return s
+        if label(state, i) == a:
+            while len(state) <= i:
+                state.append(0)
+            state[i] = b
+    return trim(state)
 
 
-def occurrences(s, a, width):
-    total = 0
-    for _ in range(width + 4):
-        total += (s & 15) == a
-        s >>= 4
-    return total
+def occurrences(state, a, width):
+    return sum(label(state, i) == a for i in range(width + 4))
 
 
 def moves(state, y, edge, final, width):
     colors = (
-        (state >> (4 * y)) & 15,
-        (state >> (4 * (y + 1))) & 15,
-        (state >> (4 * (y + 2))) & 15,
+        label(state, y),
+        label(state, y + 1),
+        label(state, y + 2),
         edge,
     )
     ans = []
@@ -83,30 +100,30 @@ def moves(state, y, edge, final, width):
         if not ok:
             continue
 
-        st = (state << 4) | edge
+        st = (edge,) + state
         for i, j in enumerate(block):
             if i == j:
                 continue
 
-            a = edge if i == 3 else (st >> (4 * (y + i + 1))) & 15
-            b = (st >> (4 * (y + j + 1))) & 15
+            a = edge if i == 3 else label(st, y + i + 1)
+            b = label(st, y + j + 1)
             if not a:
                 continue
             if not b or a == b:
-                st = -1
+                st = None
                 break
             st = relabel(st, a, b, width)
 
-        if st == -1:
+        if st is None:
             continue
 
-        cur = st & 15
-        st >>= 4
-        old = (st >> (4 * (y + 1))) & 15
+        cur = label(st, 0)
+        st = trim(st[1:])
+        old = label(st, y + 1)
         if occurrences(st, old, width) > 1 or old == cur or final:
-            st ^= (cur ^ old) << (4 * (y + 1))
+            st = with_label(st, y + 1, cur)
             if y == width:
-                st <<= 4
+                st = (0,) + st
             ans.append(normalize(st))
 
     return ans
@@ -116,7 +133,7 @@ def count(m, n):
     if m > n:
         m, n = n, m
 
-    dp = {0: 1}
+    dp = {(): 1}
     cache = {}
     for x in range(n + 1):
         for y in range(m + 1):
@@ -133,7 +150,7 @@ def count(m, n):
                     nxt[state2] = (nxt[state2] + ways) % MOD
             dp = nxt
 
-    return dp.get(0, 0)
+    return dp.get((), 0)
 
 
 def solve():
