@@ -288,3 +288,4 @@
 * [Problem 285](https://projecteuler.net/problem=285) | [Solution](src/problem_285.py)
 * [Problem 286](https://projecteuler.net/problem=286) | [Solution](src/problem_286.py)
 * [Problem 287](https://projecteuler.net/problem=287) | [Solution](src/problem_287.py)
+* [Problem 288](https://projecteuler.net/problem=288) | [Solution](src/problem_288.py)
