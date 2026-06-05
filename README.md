@@ -291,4 +291,4 @@
 * [Problem 288](https://projecteuler.net/problem=288) | [Solution](src/problem_288.py)
 * [Problem 289](https://projecteuler.net/problem=289) | [Solution](src/problem_289.py)
 * [Problem 290](https://projecteuler.net/problem=290) | [Solution](src/problem_290.py)
-* [Problem 291](https://projecteuler.net/problem=291) | [Solution](src/problem_291.py)
+* [Problem 291](https://projecteuler.net/problem=291) | [Solution](src/problem_291.go)
