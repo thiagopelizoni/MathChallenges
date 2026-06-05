@@ -26,11 +26,11 @@ func isqrt(n int64) int64 {
 func powMod(a, e, mod int64) int64 {
 	r := int64(1)
 	for e > 0 {
-		if e&1 == 1 {
+		if e%2 == 1 {
 			r = r * a % mod
 		}
 		a = a * a % mod
-		e >>= 1
+		e /= 2
 	}
 	return r
 }
@@ -38,8 +38,8 @@ func powMod(a, e, mod int64) int64 {
 func sqrtMinusOne(p int) int {
 	q := p - 1
 	s := 0
-	for q&1 == 0 {
-		q >>= 1
+	for q%2 == 0 {
+		q /= 2
 		s++
 	}
 
@@ -106,7 +106,7 @@ func solve() int {
 
 	composite := make([]bool, maxn+1)
 	for _, p := range primesUpTo(int(isqrt(value(maxn)))) {
-		if p&3 != 1 {
+		if p%4 != 1 {
 			continue
 		}
 
