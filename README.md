@@ -298,3 +298,4 @@
 * [Problem 295](https://projecteuler.net/problem=295) | [Solution](src/problem_295.py)
 * [Problem 296](https://projecteuler.net/problem=296) | [Solution](src/problem_296.py)
 * [Problem 297](https://projecteuler.net/problem=297) | [Solution](src/problem_297.py)
+* [Problem 298](https://projecteuler.net/problem=298) | [Solution](src/problem_298.py)
