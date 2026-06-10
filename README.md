@@ -300,3 +300,4 @@
 * [Problem 297](https://projecteuler.net/problem=297) | [Solution](src/problem_297.py)
 * [Problem 298](https://projecteuler.net/problem=298) | [Solution](src/problem_298.py)
 * [Problem 299](https://projecteuler.net/problem=299) | [Solution](src/problem_299.py)
+* [Problem 300](https://projecteuler.net/problem=300) | [Solution](src/problem_300.py)
