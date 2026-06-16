@@ -3,36 +3,28 @@
 from functools import lru_cache
 from math import isqrt
 
+from sympy import primerange
+
 
 N = 10_000_000_000
 
 
 def primes_1mod4(n):
-    if n < 5:
-        return []
-
-    sieve = bytearray(b"\x01") * (n + 1)
-    sieve[:2] = b"\x00\x00"
-
-    for p in range(2, isqrt(n) + 1):
-        if sieve[p]:
-            sieve[p * p : n + 1 : p] = b"\x00" * ((n - p * p) // p + 1)
-
-    return [p for p in range(5, n + 1, 4) if sieve[p]]
+    return [p for p in primerange(5, n + 1) if p % 4 == 1]
 
 
 def z_prefix(lim, ps):
-    good = bytearray(b"\x01") * (lim + 1)
-    good[0] = 0
+    good = [True] * (lim + 1)
+    good[0] = False
 
     for n in range(2, lim + 1, 2):
-        good[n] = 0
+        good[n] = False
 
     for p in ps:
         if p > lim:
             break
         for n in range(p, lim + 1, p):
-            good[n] = 0
+            good[n] = False
 
     pref = [0] * (lim + 1)
     total = 0
