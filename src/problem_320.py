@@ -1,5 +1,8 @@
 # Problem 320: https://projecteuler.net/problem=320
 
+from sympy import primerange
+
+
 POWER = 1_234_567_890
 LIM = 1_000_000
 MOD = 10**18
@@ -7,18 +10,12 @@ MOD = 10**18
 
 def smallest_prime_factors(lim):
     spf = [0] * (lim + 1)
-    primes = []
 
-    for i in range(2, lim + 1):
-        if spf[i] == 0:
-            spf[i] = i
-            primes.append(i)
-
-        for p in primes:
-            v = i * p
-            if v > lim or p > spf[i]:
-                break
-            spf[v] = p
+    for p in primerange(2, lim + 1):
+        spf[p] = p
+        for n in range(p * p, lim + 1, p):
+            if spf[n] == 0:
+                spf[n] = p
 
     return spf
 
