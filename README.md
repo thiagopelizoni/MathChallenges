@@ -325,3 +325,4 @@
 * [Problem 322](https://projecteuler.net/problem=322) | [Solution](src/problem_322.py)
 * [Problem 323](https://projecteuler.net/problem=323) | [Solution](src/problem_323.py)
 * [Problem 324](https://projecteuler.net/problem=324) | [Solution](src/problem_324.py)
+* [Problem 325](https://projecteuler.net/problem=325) | [Solution](src/problem_325.py)
