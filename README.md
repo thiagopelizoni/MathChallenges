@@ -331,3 +331,4 @@
 * [Problem 328](https://projecteuler.net/problem=328) | [Solution](src/problem_328.py)
 * [Problem 329](https://projecteuler.net/problem=329) | [Solution](src/problem_329.py)
 * [Problem 330](https://projecteuler.net/problem=330) | [Solution](src/problem_330.py)
+* [Problem 331](https://projecteuler.net/problem=331) | [Solution](src/problem_331.py)
