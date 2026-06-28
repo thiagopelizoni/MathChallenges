@@ -342,3 +342,4 @@
 * [Problem 339](https://projecteuler.net/problem=339) | [Solution](src/problem_339.py)
 * [Problem 340](https://projecteuler.net/problem=340) | [Solution](src/problem_340.py)
 * [Problem 341](https://projecteuler.net/problem=341) | [Solution](src/problem_341.py)
+* [Problem 342](https://projecteuler.net/problem=342) | [Solution](src/problem_342.py)
