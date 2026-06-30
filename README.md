@@ -350,3 +350,4 @@
 * [Problem 347](https://projecteuler.net/problem=347) | [Solution](src/problem_347.py)
 * [Problem 348](https://projecteuler.net/problem=348) | [Solution](src/problem_348.py)
 * [Problem 349](https://projecteuler.net/problem=349) | [Solution](src/problem_349.py)
+* [Problem 350](https://projecteuler.net/problem=350) | [Solution](src/problem_350.py)
