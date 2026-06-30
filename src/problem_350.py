@@ -7,13 +7,20 @@ G = 10**6
 L = 10**12
 N = 10**18
 MOD = 101**4
-EXP_WAYS = [
+MAX_EXPONENT = 19
+
+
+def valuation_patterns(e):
+    all_patterns = pow(e + 1, N, MOD)
+    without_zero = pow(e, N, MOD)
+    without_top = pow(e, N, MOD)
+    without_zero_or_top = pow(e - 1, N, MOD)
+    return (all_patterns - without_zero - without_top + without_zero_or_top) % MOD
+
+
+WAYS_BY_EXPONENT = [
     0,
-    *[
-        (pow(e + 1, N, MOD) - 2 * pow(e, N, MOD) + pow(e - 1, N, MOD))
-        % MOD
-        for e in range(1, 20)
-    ],
+    *[valuation_patterns(e) for e in range(1, MAX_EXPONENT + 1)],
 ]
 
 
@@ -21,7 +28,7 @@ def h(r):
     ans = 1
 
     for e in factorint(r).values():
-        ans = ans * EXP_WAYS[e] % MOD
+        ans = ans * WAYS_BY_EXPONENT[e] % MOD
 
     return ans
 
