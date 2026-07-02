@@ -1,21 +1,18 @@
 # Problem 356: https://projecteuler.net/problem=356
 
+import numpy as np
+
 
 MOD = 10**8
 EXP = 987_654_321
 
 
 def mat_mul(a, b):
-    n = len(a)
-    return [
-        [sum(a[i][k] * b[k][j] for k in range(n)) % MOD for j in range(n)]
-        for i in range(n)
-    ]
+    return (a @ b) % MOD
 
 
 def mat_pow(a, e):
-    n = len(a)
-    out = [[1 if i == j else 0 for j in range(n)] for i in range(n)]
+    out = np.identity(a.shape[0], dtype=np.int64)
 
     while e:
         if e % 2:
@@ -35,10 +32,10 @@ def root_power_sum(n, k):
     if k == 2:
         return a * a % MOD
 
-    trans = ((a, 0, -n % MOD), (1, 0, 0), (0, 1, 0))
-    init = (a * a % MOD, a, 3)
+    trans = np.array(((a, 0, -n % MOD), (1, 0, 0), (0, 1, 0)), dtype=np.int64)
+    init = np.array((a * a % MOD, a, 3), dtype=np.int64)
     p = mat_pow(trans, k - 2)
-    return sum(p[0][i] * init[i] for i in range(3)) % MOD
+    return int(p[0] @ init % MOD)
 
 
 def solve():
