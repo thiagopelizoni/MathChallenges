@@ -373,3 +373,4 @@
 * [Problem 370](https://projecteuler.net/problem=370) | [Solution](src/problem_370.py)
 * [Problem 371](https://projecteuler.net/problem=371) | [Solution](src/problem_371.py)
 * [Problem 372](https://projecteuler.net/problem=372) | [Solution](src/problem_372.py)
+* [Problem 373](https://projecteuler.net/problem=373) | [Solution](src/problem_373.py)
