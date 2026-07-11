@@ -381,3 +381,4 @@
 * [Problem 378](https://projecteuler.net/problem=378) | [Solution](src/problem_378.py)
 * [Problem 379](https://projecteuler.net/problem=379) | [Solution](src/problem_379.py)
 * [Problem 380](https://projecteuler.net/problem=380) | [Solution](src/problem_380.py)
+* [Problem 381](https://projecteuler.net/problem=381) | [Solution](src/problem_381.py)
