@@ -40,17 +40,16 @@ def solve(limit=10**9):
                             x1, y1 = (a + c) // 2, (b + d) // 2
                             x2, y2 = (c - a) // 2, (d - b) // 2
                             x3, y3 = -c, -d
-                            if max(
-                                abs(x1),
-                                abs(y1),
-                                abs(x2),
-                                abs(y2),
-                                abs(x3),
-                                abs(y3),
-                            ) > limit:
+                            vertices = ((x1, y1), (x2, y2), (x3, y3))
+                            inside_bounds = all(
+                                abs(coordinate) <= limit
+                                for vertex in vertices
+                                for coordinate in vertex
+                            )
+                            if not inside_bounds:
                                 continue
 
-                            triangle = tuple(sorted(((x1, y1), (x2, y2), (x3, y3))))
+                            triangle = tuple(sorted(vertices))
                             if triangle in seen:
                                 continue
                             seen.add(triangle)
