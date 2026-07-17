@@ -406,3 +406,4 @@
 * [Problem 403](https://projecteuler.net/problem=403) | [Solution](src/problem_403.py)
 * [Problem 404](https://projecteuler.net/problem=404) | [Solution](src/problem_404.py)
 * [Problem 405](https://projecteuler.net/problem=405) | [Solution](src/problem_405.py)
+* [Problem 406](https://projecteuler.net/problem=406) | [Solution](src/problem_406.py)
