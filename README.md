@@ -418,3 +418,4 @@
 * [Problem 415](https://projecteuler.net/problem=415) | [Solution](src/problem_415.py)
 * [Problem 416](https://projecteuler.net/problem=416) | [Solution](src/problem_416.py)
 * [Problem 417](https://projecteuler.net/problem=417) | [Solution](src/problem_417.py)
+* [Problem 418](https://projecteuler.net/problem=418) | [Solution](src/problem_418.py)
