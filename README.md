@@ -423,3 +423,4 @@
 * [Problem 420](https://projecteuler.net/problem=420) | [Solution](src/problem_420.py)
 * [Problem 421](https://projecteuler.net/problem=421) | [Solution](src/problem_421.py)
 * [Problem 422](https://projecteuler.net/problem=422) | [Solution](src/problem_422.py)
+* [Problem 423](https://projecteuler.net/problem=423) | [Solution](src/problem_423.py)
