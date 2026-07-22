@@ -430,3 +430,4 @@
 * [Problem 427](https://projecteuler.net/problem=427) | [Solution](src/problem_427.py)
 * [Problem 428](https://projecteuler.net/problem=428) | [Solution](src/problem_428.py)
 * [Problem 429](https://projecteuler.net/problem=429) | [Solution](src/problem_429.py)
+* [Problem 430](https://projecteuler.net/problem=430) | [Solution](src/problem_430.py)
