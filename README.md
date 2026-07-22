@@ -428,3 +428,4 @@
 * [Problem 425](https://projecteuler.net/problem=425) | [Solution](src/problem_425.py)
 * [Problem 426](https://projecteuler.net/problem=426) | [Solution](src/problem_426.py)
 * [Problem 427](https://projecteuler.net/problem=427) | [Solution](src/problem_427.py)
+* [Problem 428](https://projecteuler.net/problem=428) | [Solution](src/problem_428.py)
