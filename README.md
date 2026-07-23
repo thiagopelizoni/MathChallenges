@@ -436,3 +436,4 @@
 * [Problem 433](https://projecteuler.net/problem=433) | [Solution](src/problem_433.py)
 * [Problem 434](https://projecteuler.net/problem=434) | [Solution](src/problem_434.py)
 * [Problem 435](https://projecteuler.net/problem=435) | [Solution](src/problem_435.py)
+* [Problem 436](https://projecteuler.net/problem=436) | [Solution](src/problem_436.py)
