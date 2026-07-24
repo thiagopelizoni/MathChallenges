@@ -443,3 +443,4 @@
 * [Problem 440](https://projecteuler.net/problem=440) | [Solution](src/problem_440.py)
 * [Problem 441](https://projecteuler.net/problem=441) | [Solution](src/problem_441.py)
 * [Problem 442](https://projecteuler.net/problem=442) | [Solution](src/problem_442.py)
+* [Problem 443](https://projecteuler.net/problem=443) | [Solution](src/problem_443.py)
