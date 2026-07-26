@@ -452,3 +452,4 @@
 * [Problem 449](https://projecteuler.net/problem=449) | [Solution](src/problem_449.py)
 * [Problem 450](https://projecteuler.net/problem=450) | [Solution](src/problem_450.py)
 * [Problem 451](https://projecteuler.net/problem=451) | [Solution](src/problem_451.py)
+* [Problem 452](https://projecteuler.net/problem=452) | [Solution](src/problem_452.py)
