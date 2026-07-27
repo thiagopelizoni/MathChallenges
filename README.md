@@ -459,3 +459,4 @@
 * [Problem 456](https://projecteuler.net/problem=456) | [Solution](src/problem_456.py)
 * [Problem 457](https://projecteuler.net/problem=457) | [Solution](src/problem_457.py)
 * [Problem 458](https://projecteuler.net/problem=458) | [Solution](src/problem_458.py)
+* [Problem 459](https://projecteuler.net/problem=459) | [Solution](src/problem_459.py)
