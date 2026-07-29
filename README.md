@@ -468,3 +468,4 @@
 * [Problem 465](https://projecteuler.net/problem=465) | [Solution](src/problem_465.py)
 * [Problem 466](https://projecteuler.net/problem=466) | [Solution](src/problem_466.py)
 * [Problem 467](https://projecteuler.net/problem=467) | [Solution](src/problem_467.py)
+* [Problem 468](https://projecteuler.net/problem=468) | [Solution](src/problem_468.py)
