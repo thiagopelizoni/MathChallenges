@@ -1,7 +1,5 @@
 # Math Challenges using Python
 
-![Badge](https://projecteuler.net/profile/ThiagoPelizoni.png)
-
 * [Problem 1](https://projecteuler.net/problem=1) | [Solution](src/problem_1.py)
 * [Problem 2](https://projecteuler.net/problem=2) | [Solution](src/problem_2.py)
 * [Problem 3](https://projecteuler.net/problem=3) | [Solution](src/problem_3.py)
@@ -487,3 +485,4 @@
 * [Problem 484](https://projecteuler.net/problem=484) | [Solution](src/problem_484.py)
 * [Problem 485](https://projecteuler.net/problem=485) | [Solution](src/problem_485.py)
 * [Problem 486](https://projecteuler.net/problem=486) | [Solution](src/problem_486.py)
+* [Problem 487](https://projecteuler.net/problem=487) | [Solution](src/problem_487.py)
