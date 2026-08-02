@@ -488,3 +488,4 @@
 * [Problem 487](https://projecteuler.net/problem=487) | [Solution](src/problem_487.py)
 * [Problem 488](https://projecteuler.net/problem=488) | [Solution](src/problem_488.py)
 * [Problem 489](https://projecteuler.net/problem=489) | [Solution](src/problem_489.py)
+* [Problem 490](https://projecteuler.net/problem=490) | [Solution](src/problem_490.py)
