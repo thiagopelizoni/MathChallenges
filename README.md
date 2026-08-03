@@ -493,3 +493,4 @@
 * [Problem 492](https://projecteuler.net/problem=492) | [Solution](src/problem_492.py)
 * [Problem 493](https://projecteuler.net/problem=493) | [Solution](src/problem_493.py)
 * [Problem 494](https://projecteuler.net/problem=494) | [Solution](src/problem_494.py)
+* [Problem 495](https://projecteuler.net/problem=495) | [Solution](src/problem_495.py)
