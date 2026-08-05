@@ -503,3 +503,4 @@
 * [Problem 502](https://projecteuler.net/problem=502) | [Solution](src/problem_502.py)
 * [Problem 503](https://projecteuler.net/problem=503) | [Solution](src/problem_503.py)
 * [Problem 504](https://projecteuler.net/problem=504) | [Solution](src/problem_504.py)
+* [Problem 505](https://projecteuler.net/problem=505) | [Solution](src/problem_505.py)
