@@ -506,3 +506,4 @@
 * [Problem 505](https://projecteuler.net/problem=505) | [Solution](src/problem_505.py)
 * [Problem 506](https://projecteuler.net/problem=506) | [Solution](src/problem_506.py)
 * [Problem 507](https://projecteuler.net/problem=507) | [Solution](src/problem_507.py)
+* [Problem 508](https://projecteuler.net/problem=508) | [Solution](src/problem_508.py)
