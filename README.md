@@ -508,3 +508,4 @@
 * [Problem 507](https://projecteuler.net/problem=507) | [Solution](src/problem_507.py)
 * [Problem 508](https://projecteuler.net/problem=508) | [Solution](src/problem_508.py)
 * [Problem 509](https://projecteuler.net/problem=509) | [Solution](src/problem_509.py)
+* [Problem 510](https://projecteuler.net/problem=510) | [Solution](src/problem_510.py)
