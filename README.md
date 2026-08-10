@@ -519,3 +519,4 @@
 * [Problem 518](https://projecteuler.net/problem=518) | [Solution](src/problem_518.py)
 * [Problem 519](https://projecteuler.net/problem=519) | [Solution](src/problem_519.py)
 * [Problem 520](https://projecteuler.net/problem=520) | [Solution](src/problem_520.py)
+* [Problem 521](https://projecteuler.net/problem=521) | [Solution](src/problem_521.py)
