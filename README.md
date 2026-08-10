@@ -522,3 +522,4 @@
 * [Problem 521](https://projecteuler.net/problem=521) | [Solution](src/problem_521.py)
 * [Problem 522](https://projecteuler.net/problem=522) | [Solution](src/problem_522.py)
 * [Problem 523](https://projecteuler.net/problem=523) | [Solution](src/problem_523.py)
+* [Problem 524](https://projecteuler.net/problem=524) | [Solution](src/problem_524.py)
