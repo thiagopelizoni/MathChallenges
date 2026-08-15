@@ -540,3 +540,4 @@
 * [Problem 539](https://projecteuler.net/problem=539) | [Solution](src/problem_539.py)
 * [Problem 540](https://projecteuler.net/problem=540) | [Solution](src/problem_540.py)
 * [Problem 541](https://projecteuler.net/problem=541) | [Solution](src/problem_541.py)
+* [Problem 542](https://projecteuler.net/problem=542) | [Solution](src/problem_542.py)
