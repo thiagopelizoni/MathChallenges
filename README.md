@@ -544,3 +544,4 @@
 * [Problem 543](https://projecteuler.net/problem=543) | [Solution](src/problem_543.py)
 * [Problem 544](https://projecteuler.net/problem=544) | [Solution](src/problem_544.py)
 * [Problem 545](https://projecteuler.net/problem=545) | [Solution](src/problem_545.py)
+* [Problem 546](https://projecteuler.net/problem=546) | [Solution](src/problem_546.py)
