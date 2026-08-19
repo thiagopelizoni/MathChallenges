@@ -549,3 +549,4 @@
 * [Problem 548](https://projecteuler.net/problem=548) | [Solution](src/problem_548.py)
 * [Problem 549](https://projecteuler.net/problem=549) | [Solution](src/problem_549.py)
 * [Problem 550](https://projecteuler.net/problem=550) | [Solution](src/problem_550.py)
+* [Problem 551](https://projecteuler.net/problem=551) | [Solution](src/problem_551.py)
