@@ -580,3 +580,4 @@
 * [Problem 579](https://projecteuler.net/problem=579) | [Solution](src/problem_579.py)
 * [Problem 580](https://projecteuler.net/problem=580) | [Solution](src/problem_580.py)
 * [Problem 581](https://projecteuler.net/problem=581) | [Solution](src/problem_581.py)
+* [Problem 582](https://projecteuler.net/problem=582) | [Solution](src/problem_582.py)
