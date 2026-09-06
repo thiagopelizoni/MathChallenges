@@ -590,3 +590,4 @@
 * [Problem 589](https://projecteuler.net/problem=589) | [Solution](src/problem_589.py)
 * [Problem 590](https://projecteuler.net/problem=590) | [Solution](src/problem_590.py)
 * [Problem 591](https://projecteuler.net/problem=591) | [Solution](src/problem_591.py)
+* [Problem 592](https://projecteuler.net/problem=592) | [Solution](src/problem_592.py)
