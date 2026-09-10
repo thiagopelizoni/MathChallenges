@@ -602,3 +602,4 @@
 * [Problem 601](https://projecteuler.net/problem=601) | [Solution](src/problem_601.py)
 * [Problem 602](https://projecteuler.net/problem=602) | [Solution](src/problem_602.py)
 * [Problem 603](https://projecteuler.net/problem=603) | [Solution](src/problem_603.py)
+* [Problem 604](https://projecteuler.net/problem=604) | [Solution](src/problem_604.py)
