@@ -632,3 +632,4 @@
 * [Problem 631](https://projecteuler.net/problem=631) | [Solution](src/problem_631.py)
 * [Problem 632](https://projecteuler.net/problem=632) | [Solution](src/problem_632.py)
 * [Problem 633](https://projecteuler.net/problem=633) | [Solution](src/problem_633.py)
+* [Problem 634](https://projecteuler.net/problem=634) | [Solution](src/problem_634.py)
