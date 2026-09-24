@@ -630,3 +630,4 @@
 * [Problem 629](https://projecteuler.net/problem=629) | [Solution](src/problem_629.py)
 * [Problem 630](https://projecteuler.net/problem=630) | [Solution](src/problem_630.py)
 * [Problem 631](https://projecteuler.net/problem=631) | [Solution](src/problem_631.py)
+* [Problem 632](https://projecteuler.net/problem=632) | [Solution](src/problem_632.py)
