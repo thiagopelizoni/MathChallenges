@@ -653,3 +653,4 @@
 * [Problem 652](https://projecteuler.net/problem=652) | [Solution](src/problem_652.py)
 * [Problem 653](https://projecteuler.net/problem=653) | [Solution](src/problem_653.py)
 * [Problem 654](https://projecteuler.net/problem=654) | [Solution](src/problem_654.py)
+* [Problem 655](https://projecteuler.net/problem=655) | [Solution](src/problem_655.py)
