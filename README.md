@@ -659,3 +659,4 @@
 * [Problem 658](https://projecteuler.net/problem=658) | [Solution](src/problem_658.py)
 * [Problem 659](https://projecteuler.net/problem=659) | [Solution](src/problem_659.py)
 * [Problem 660](https://projecteuler.net/problem=660) | [Solution](src/problem_660.py)
+* [Problem 661](https://projecteuler.net/problem=661) | [Solution](src/problem_661.py)
