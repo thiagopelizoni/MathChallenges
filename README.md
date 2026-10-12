@@ -666,3 +666,4 @@
 * [Problem 665](https://projecteuler.net/problem=665) | [Solution](src/problem_665.py)
 * [Problem 666](https://projecteuler.net/problem=666) | [Solution](src/problem_666.py)
 * [Problem 667](https://projecteuler.net/problem=667) | [Solution](src/problem_667.py)
+* [Problem 668](https://projecteuler.net/problem=668) | [Solution](src/problem_668.py)
