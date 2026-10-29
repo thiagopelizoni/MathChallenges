@@ -688,3 +688,4 @@
 * [Problem 687](https://projecteuler.net/problem=687) | [Solution](src/problem_687.py)
 * [Problem 688](https://projecteuler.net/problem=688) | [Solution](src/problem_688.py)
 * [Problem 689](https://projecteuler.net/problem=689) | [Solution](src/problem_689.py)
+* [Problem 690](https://projecteuler.net/problem=690) | [Solution](src/problem_690.py)
