@@ -692,3 +692,4 @@
 * [Problem 691](https://projecteuler.net/problem=691) | [Solution](src/problem_691.py)
 * [Problem 692](https://projecteuler.net/problem=692) | [Solution](src/problem_692.py)
 * [Problem 693](https://projecteuler.net/problem=693) | [Solution](src/problem_693.py)
+* [Problem 694](https://projecteuler.net/problem=694) | [Solution](src/problem_694.py)
