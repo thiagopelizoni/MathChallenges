@@ -705,3 +705,4 @@
 * [Problem 704](https://projecteuler.net/problem=704) | [Solution](src/problem_704.py)
 * [Problem 705](https://projecteuler.net/problem=705) | [Solution](src/problem_705.py)
 * [Problem 706](https://projecteuler.net/problem=706) | [Solution](src/problem_706.py)
+* [Problem 707](https://projecteuler.net/problem=707) | [Solution](src/problem_707.py)
