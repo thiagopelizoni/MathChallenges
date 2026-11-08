@@ -719,3 +719,4 @@
 * [Problem 718](https://projecteuler.net/problem=718) | [Solution](src/problem_718.py)
 * [Problem 719](https://projecteuler.net/problem=719) | [Solution](src/problem_719.py)
 * [Problem 720](https://projecteuler.net/problem=720) | [Solution](src/problem_720.py)
+* [Problem 721](https://projecteuler.net/problem=721) | [Solution](src/problem_721.py)
