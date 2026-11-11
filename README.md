@@ -728,3 +728,4 @@
 * [Problem 727](https://projecteuler.net/problem=727) | [Solution](src/problem_727.py)
 * [Problem 728](https://projecteuler.net/problem=728) | [Solution](src/problem_728.py)
 * [Problem 729](https://projecteuler.net/problem=729) | [Solution](src/problem_729.py)
+* [Problem 730](https://projecteuler.net/problem=730) | [Solution](src/problem_730.py)
