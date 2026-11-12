@@ -731,3 +731,4 @@
 * [Problem 730](https://projecteuler.net/problem=730) | [Solution](src/problem_730.py)
 * [Problem 731](https://projecteuler.net/problem=731) | [Solution](src/problem_731.py)
 * [Problem 732](https://projecteuler.net/problem=732) | [Solution](src/problem_732.py)
+* [Problem 733](https://projecteuler.net/problem=733) | [Solution](src/problem_733.py)
