@@ -738,3 +738,4 @@
 * [Problem 737](https://projecteuler.net/problem=737) | [Solution](src/problem_737.py)
 * [Problem 738](https://projecteuler.net/problem=738) | [Solution](src/problem_738.py)
 * [Problem 739](https://projecteuler.net/problem=739) | [Solution](src/problem_739.py)
+* [Problem 740](https://projecteuler.net/problem=740) | [Solution](src/problem_740.py)
