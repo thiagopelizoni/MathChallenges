@@ -735,3 +735,4 @@
 * [Problem 734](https://projecteuler.net/problem=734) | [Solution](src/problem_734.py)
 * [Problem 735](https://projecteuler.net/problem=735) | [Solution](src/problem_735.py)
 * [Problem 736](https://projecteuler.net/problem=736) | [Solution](src/problem_736.py)
+* [Problem 737](https://projecteuler.net/problem=737) | [Solution](src/problem_737.py)
