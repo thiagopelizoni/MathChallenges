@@ -749,3 +749,4 @@
 * [Problem 748](https://projecteuler.net/problem=748) | [Solution](src/problem_748.py)
 * [Problem 749](https://projecteuler.net/problem=749) | [Solution](src/problem_749.py)
 * [Problem 750](https://projecteuler.net/problem=750) | [Solution](src/problem_750.py)
+* [Problem 751](https://projecteuler.net/problem=751) | [Solution](src/problem_751.py)
