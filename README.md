@@ -758,3 +758,4 @@
 * [Problem 757](https://projecteuler.net/problem=757) | [Solution](src/problem_757.py)
 * [Problem 758](https://projecteuler.net/problem=758) | [Solution](src/problem_758.py)
 * [Problem 759](https://projecteuler.net/problem=759) | [Solution](src/problem_759.py)
+* [Problem 760](https://projecteuler.net/problem=760) | [Solution](src/problem_760.py)
