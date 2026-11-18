@@ -761,3 +761,4 @@
 * [Problem 760](https://projecteuler.net/problem=760) | [Solution](src/problem_760.py)
 * [Problem 761](https://projecteuler.net/problem=761) | [Solution](src/problem_761.py)
 * [Problem 762](https://projecteuler.net/problem=762) | [Solution](src/problem_762.py)
+* [Problem 763](https://projecteuler.net/problem=763) | [Solution](src/problem_763.py)
