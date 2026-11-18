@@ -765,3 +765,4 @@
 * [Problem 764](https://projecteuler.net/problem=764) | [Solution](src/problem_764.py)
 * [Problem 765](https://projecteuler.net/problem=765) | [Solution](src/problem_765.py)
 * [Problem 766](https://projecteuler.net/problem=766) | [Solution](src/problem_766.py)
+* [Problem 767](https://projecteuler.net/problem=767) | [Solution](src/problem_767.py)
