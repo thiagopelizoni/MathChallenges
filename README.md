@@ -767,3 +767,4 @@
 * [Problem 766](https://projecteuler.net/problem=766) | [Solution](src/problem_766.py)
 * [Problem 767](https://projecteuler.net/problem=767) | [Solution](src/problem_767.py)
 * [Problem 768](https://projecteuler.net/problem=768) | [Solution](src/problem_768.py)
+* [Problem 769](https://projecteuler.net/problem=769) | [Solution](src/problem_769.py)
