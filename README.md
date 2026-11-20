@@ -770,3 +770,4 @@
 * [Problem 769](https://projecteuler.net/problem=769) | [Solution](src/problem_769.py)
 * [Problem 770](https://projecteuler.net/problem=770) | [Solution](src/problem_770.py)
 * [Problem 771](https://projecteuler.net/problem=771) | [Solution](src/problem_771.py)
+* [Problem 772](https://projecteuler.net/problem=772) | [Solution](src/problem_772.py)
