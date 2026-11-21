@@ -779,3 +779,4 @@
 * [Problem 778](https://projecteuler.net/problem=778) | [Solution](src/problem_778.py)
 * [Problem 779](https://projecteuler.net/problem=779) | [Solution](src/problem_779.py)
 * [Problem 780](https://projecteuler.net/problem=780) | [Solution](src/problem_780.py)
+* [Problem 781](https://projecteuler.net/problem=781) | [Solution](src/problem_781.py)
