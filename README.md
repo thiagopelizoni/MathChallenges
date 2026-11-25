@@ -796,3 +796,4 @@
 * [Problem 795](https://projecteuler.net/problem=795) | [Solution](src/problem_795.py)
 * [Problem 796](https://projecteuler.net/problem=796) | [Solution](src/problem_796.py)
 * [Problem 797](https://projecteuler.net/problem=797) | [Solution](src/problem_797.py)
+* [Problem 798](https://projecteuler.net/problem=798) | [Solution](src/problem_798.py)
