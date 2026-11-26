@@ -803,3 +803,4 @@
 * [Problem 802](https://projecteuler.net/problem=802) | [Solution](src/problem_802.py)
 * [Problem 803](https://projecteuler.net/problem=803) | [Solution](src/problem_803.py)
 * [Problem 804](https://projecteuler.net/problem=804) | [Solution](src/problem_804.py)
+* [Problem 805](https://projecteuler.net/problem=805) | [Solution](src/problem_805.py)
