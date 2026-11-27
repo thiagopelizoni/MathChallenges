@@ -810,3 +810,4 @@
 * [Problem 809](https://projecteuler.net/problem=809) | [Solution](src/problem_809.py)
 * [Problem 810](https://projecteuler.net/problem=810) | [Solution](src/problem_810.py)
 * [Problem 811](https://projecteuler.net/problem=811) | [Solution](src/problem_811.py)
+* [Problem 812](https://projecteuler.net/problem=812) | [Solution](src/problem_812.py)
